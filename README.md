@@ -1,5 +1,3 @@
-# phishing-diploma-project
-Game-theoretic and machine learning models for phishing attack analysis.
 # Phishing Diploma Project
 
 This repository contains the implementation modules used in a diploma thesis on phishing attack modeling and analysis.
